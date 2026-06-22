@@ -10,3 +10,7 @@ This is an example of a text
 ***
 
 <p><img src="https://github.com/jieweiyu-ua/AICampusChampions/blob/main/images/Mod1image.jpg">
+
+or use Markdown
+
+![](https://github.com/jieweiyu-ua/AICampusChampions/blob/main/images/Mod1image.jpg)
